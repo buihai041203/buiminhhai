@@ -141,7 +141,7 @@ namespace StoreManagementSystem
 
             return role;
         }
-
+        //Update
         // Chuyển hướng đến form Employee tương ứng
         private void NavigateToEmployeeForm(string role)
         {

@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|d:\\storemanagementsystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,8 +78,7 @@
               "RelativeToolTip": "StoreManagementSystem\\ManageProducts.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAYwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:21:27.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:21:27.473Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "StoreManagementSystem\\LoginApp.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
               "RelativeToolTip": "StoreManagementSystem\\LoginApp.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAowJEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:49:45.626Z",
               "EditorCaption": ""
@@ -115,8 +114,7 @@
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs [Design]",
               "RelativeToolTip": "StoreManagementSystem\\LoginApp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:42:05.932Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T08:42:05.932Z"
             },
             {
               "$type": "Document",
@@ -206,8 +204,7 @@
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs [Design]",
               "RelativeToolTip": "StoreManagementSystem\\ManageProducts.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:29:05.707Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T04:29:05.707Z"
             },
             {
               "$type": "Document",

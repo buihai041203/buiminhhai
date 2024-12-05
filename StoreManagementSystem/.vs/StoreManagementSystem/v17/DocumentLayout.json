@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\StoreManagementSystem\\",
+  "WorkspaceRootPath": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|d:\\storemanagementsystem\\storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|d:\\github\\buiminhhai\\storemanagementsystem\\storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\loginapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updatewarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\updateeployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\updateeployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\updateeployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\manageemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\StoreManagementSystem\\storemanagementsystem\\managacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|D:\\GitHub\\buiminhhai\\StoreManagementSystem\\storemanagementsystem\\managacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5044FD17-B83F-4250-8F51-1BD18E48281A}|StoreManagementSystem\\StoreManagementSystem.csproj|solutionrelative:storemanagementsystem\\managacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ManageProducts.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\ManageProducts.cs",
-              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
+              "ToolTip": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
               "RelativeToolTip": "StoreManagementSystem\\ManageProducts.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAYwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginApp.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\LoginApp.cs",
-              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
+              "ToolTip": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
               "RelativeToolTip": "StoreManagementSystem\\LoginApp.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAkwKsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwI8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:49:45.626Z",
               "EditorCaption": ""
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\PasswordHasher.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\PasswordHasher.cs",
-              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\PasswordHasher.cs",
+              "ToolTip": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\PasswordHasher.cs",
               "RelativeToolTip": "StoreManagementSystem\\PasswordHasher.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,10 +109,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoginApp.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\LoginApp.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\LoginApp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\LoginApp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:42:05.932Z"
             },
@@ -120,10 +120,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WarehouseForm.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\WarehouseForm.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\WarehouseForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\WarehouseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:41:28.972Z"
             },
@@ -131,9 +131,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UpdateWarehouse.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateWarehouse.cs",
-              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
+              "ToolTip": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
               "RelativeToolTip": "StoreManagementSystem\\UpdateWarehouse.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAawFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,10 +143,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UpdateWarehouse.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateWarehouse.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\UpdateWarehouse.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\UpdateWarehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:40:31.934Z"
             },
@@ -154,10 +154,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "UpdateEployees.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\UpdateEployees.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\UpdateEployees.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\UpdateEployees.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:40:21.152Z"
             },
@@ -165,9 +165,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TransactionHistory.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\TransactionHistory.cs",
-              "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "ToolTip": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
               "RelativeToolTip": "StoreManagementSystem\\TransactionHistory.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAIA1wDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,10 +177,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ManagaCustomers.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\ManagaCustomers.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\ManagaCustomers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\ManagaCustomers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:29:10.737Z"
             },
@@ -188,10 +188,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ManageEmployees.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\ManageEmployees.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\ManageEmployees.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\ManageEmployees.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:29:08.125Z"
             },
@@ -199,10 +199,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ManageProducts.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\ManageProducts.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\ManageProducts.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\ManageProducts.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:29:05.707Z"
             },
@@ -210,10 +210,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TransactionHistory.cs [Design]",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\TransactionHistory.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs [Design]",
-              "RelativeToolTip": "StoreManagementSystem\\TransactionHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\TransactionHistory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:29:03.407Z"
             },
@@ -221,10 +221,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AdminForm.cs",
-              "DocumentMoniker": "D:\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs",
+              "DocumentMoniker": "D:\\GitHub\\buiminhhai\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs",
               "RelativeDocumentMoniker": "StoreManagementSystem\\AdminForm.cs",
               "ToolTip": "D:\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs*",
-              "RelativeToolTip": "StoreManagementSystem\\AdminForm.cs*",
+              "RelativeToolTip": "..\\..\\..\\StoreManagementSystem\\StoreManagementSystem\\AdminForm.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:23:51.22Z"
